@@ -1,10 +1,44 @@
 {
-    "robots": [
+    "restaurants": [
         {
             "id": 1,
-            "name": "Leanne Graham",
-            "username": "Bret",
-            "email": "Sincere@april.biz"
+            "name": "Chipotle",
+            "doordash": "2.99",
+            "ubereats": "2.49",
+            "postmates": "2.99",
+            "grubhub": "6.99"
+        },
+        {
+            "id": 2,
+            "name": "Wings Over Raleigh",
+            "doordash": "N/A",
+            "ubereats": "6.49",
+            "postmates": "N/A",
+            "grubhub": "N/A"
+        },
+        {
+            "id": 3,
+            "name": "Esmeralda Grill",
+            "doordash": "N/A",
+            "ubereats": "N/A",
+            "postmates": "6.99",
+            "grubhub": "N/A"
+        },
+        {
+            "id": 4,
+            "name": "Chicken Bee",
+            "doordash": "N/A",
+            "ubereats": "5.49",
+            "postmates": "N/A",
+            "grubhub": "N/A"
+        },
+        {
+            "id": 5,
+            "name": "Bojangles",
+            "doordash": "4.99",
+            "ubereats": "N/A",
+            "postmates": "2.99",
+            "grubhub": "N/A"
         }
     ]
 }
